@@ -69,6 +69,11 @@ e se você aprendeu alguma coisa com este repositório.
    "Ótimo tutorial - Dennis Bergkamp"
 14. [@LizzardMedeiros](https://github.com/LizzardMedeiros/)
    "Finalmente estou aprendendo! OMG"
+ 
+15. [@Stefano020](https://github.com/Stefano020/)
+   "Primeiros passos com github!"
 	
 13. [@seu-nick-github](https://github.com/seu-link)
     "Colocar um comentário"
+
+
